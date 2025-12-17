@@ -76,7 +76,7 @@
           :style="{ backgroundColor: colors[4] || '#6c757d' }"
         >
           <div :style="{ color: getContrastColor(colors[4]) }">
-            © 2024 Пример интерфейса
+            © 2025 Пример интерфейса
           </div>
         </div>
       </div>
